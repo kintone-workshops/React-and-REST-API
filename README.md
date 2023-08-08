@@ -1,3 +1,8 @@
+# ⚠️ THIS REPO IS ARCHIVED ⚠️
+# ⚠️ DO NOT USE THIS WORKSHOP ANYMORE ⚠️
+# UPDATED WORKSHOP: [kintone-workshops/React-x-REST-API-Workshop](https://github.com/kintone-workshops/React-x-REST-API-Workshop)
+---
+
 # React Workshop by [Kintone](https://kintone.dev/) - Version 3
 
 ## Overview of the Repo
